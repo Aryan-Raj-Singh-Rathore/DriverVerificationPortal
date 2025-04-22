@@ -1,0 +1,76 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\40d37290-d0b9-4a81-840c-12b461b64a5f.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DriverVerificationAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DriverVerificationAPI</BasePath>
+      <RelativePath>uploads/40d37290-d0b9-4a81-840c-12b461b64a5f.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>mny4z7jsgt</Fingerprint>
+      <Integrity>cjfw6MEEcDFt+Rqs0nG2N3GM4ya1UwWY6qY2sjdma5w=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\40d37290-d0b9-4a81-840c-12b461b64a5f.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\955846c5-c6fb-48aa-a357-9fbf95acbe4f.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DriverVerificationAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DriverVerificationAPI</BasePath>
+      <RelativePath>uploads/955846c5-c6fb-48aa-a357-9fbf95acbe4f.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dlwxzmgwkk</Fingerprint>
+      <Integrity>v8GvTRJBMH6vsirNVuzBDcMFS2gCfaYgt+ogp2ucV60=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\955846c5-c6fb-48aa-a357-9fbf95acbe4f.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9719328d-3085-458b-b4be-9927164c7d18.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DriverVerificationAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DriverVerificationAPI</BasePath>
+      <RelativePath>uploads/9719328d-3085-458b-b4be-9927164c7d18.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qcai3pdsd0</Fingerprint>
+      <Integrity>6rsz12FAE1Z12jFrvZPTUX2RbzslM26Hs3y0ZVE43sc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9719328d-3085-458b-b4be-9927164c7d18.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\dceceb37-758c-43f9-be53-1b2450c4f77b.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DriverVerificationAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DriverVerificationAPI</BasePath>
+      <RelativePath>uploads/dceceb37-758c-43f9-be53-1b2450c4f77b.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>sq2xe5tfxv</Fingerprint>
+      <Integrity>JB4b84R7FB14BOxkrb+r29GeOm3rhLSI1w9fOxCAeTs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\dceceb37-758c-43f9-be53-1b2450c4f77b.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

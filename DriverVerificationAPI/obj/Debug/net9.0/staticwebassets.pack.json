@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\manra\\OneDrive\\Desktop\\Final Year Project\\WithReact\\DriverVerificationAPI\\wwwroot\\uploads\\40d37290-d0b9-4a81-840c-12b461b64a5f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\40d37290-d0b9-4a81-840c-12b461b64a5f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\manra\\OneDrive\\Desktop\\Final Year Project\\WithReact\\DriverVerificationAPI\\wwwroot\\uploads\\955846c5-c6fb-48aa-a357-9fbf95acbe4f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\955846c5-c6fb-48aa-a357-9fbf95acbe4f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\manra\\OneDrive\\Desktop\\Final Year Project\\WithReact\\DriverVerificationAPI\\wwwroot\\uploads\\9719328d-3085-458b-b4be-9927164c7d18.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9719328d-3085-458b-b4be-9927164c7d18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\manra\\OneDrive\\Desktop\\Final Year Project\\WithReact\\DriverVerificationAPI\\wwwroot\\uploads\\dceceb37-758c-43f9-be53-1b2450c4f77b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dceceb37-758c-43f9-be53-1b2450c4f77b.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DriverVerificationAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DriverVerificationAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.DriverVerificationAPI.props",
+      "PackagePath": "build\\DriverVerificationAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.DriverVerificationAPI.props",
+      "PackagePath": "buildMultiTargeting\\DriverVerificationAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.DriverVerificationAPI.props",
+      "PackagePath": "buildTransitive\\DriverVerificationAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
